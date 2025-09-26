@@ -1,0 +1,7 @@
+{
+  "name": "Bangla English Tutor AI",
+  "description": "An AI-powered application designed to help Bengali speakers learn and practice English through real-time speaking and writing exercises with instant feedback and explanations in Bengali.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
